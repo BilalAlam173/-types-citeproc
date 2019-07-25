@@ -1,0 +1,15 @@
+{
+  "name": "@types/citeproc",
+  "version": "1.0.0",
+  "description": "Typings for citeproc.js",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "citeproc",
+    "typings"
+  ],
+  "author": "Bilal Alam",
+  "license": "MIT"
+}
