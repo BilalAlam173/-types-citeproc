@@ -1,6 +1,6 @@
 {
   "name": "@external/citeproc-types",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Typings for citeproc.js",
   "main": "index.d.ts",
   "scripts": {
