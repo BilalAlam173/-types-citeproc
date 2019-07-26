@@ -1,6 +1,6 @@
 {
-  "name": "citeproc-types",
-  "version": "1.0.2",
+  "name": "@external/citeproc",
+  "version": "1.0.0",
   "description": "Typings for citeproc.js",
   "main": "index.d.ts",
   "scripts": {
@@ -11,5 +11,8 @@
     "typings"
   ],
   "author": "Bilal Alam",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "citeproc-types": "^1.0.2"
+  }
 }
